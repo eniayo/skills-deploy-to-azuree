@@ -1,3 +1,4 @@
+# This workflow file is used to spin up and destroy Azure resources.
 name: Configure Azure environment
 
 on:
